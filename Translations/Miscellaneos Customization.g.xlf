@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Miscellaneos Customization">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 893053477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Requisition Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 2850985159 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coordinator Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Coordinator Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 3371587340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requisition Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Requisition Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 1577567912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 1 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Shortcut Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 1003760969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 2 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Shortcut Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 781257514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 3 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Shortcut Dimension 3 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 2711388939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 4 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Shortcut Dimension 4 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 405681708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 5 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Shortcut Dimension 5 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 4126842061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 6 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Shortcut Dimension 6 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 2765633070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 1 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Shortcut Dimension 7 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 785667711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 2 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Shortcut Dimension 8 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 2369664869 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Created By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 300007199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Exist</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field OrderExist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 893053477 - Method 1027696796 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase requisition line is not found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionHeader - Method CheckMandatoryFields - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,G/L Account,Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 1577567912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 1 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Shortcut Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 1003760969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 2 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Shortcut Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 781257514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 3 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Shortcut Dimension 3 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 2711388939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 4 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Shortcut Dimension 4 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 405681708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 5 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Shortcut Dimension 5 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 4126842061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 6 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Shortcut Dimension 6 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 2765633070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 7 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Shortcut Dimension 7 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 785667711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 8 Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Shortcut Dimension 8 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 3100943090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Created</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field OrderCreated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 3322554545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Dimension Set ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1621642270 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMG_PurchRequisitionLine - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1841557253 - Method 4209902353 - NamedType 3376819223" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Quote %1 is created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMG_MiscManagement - Method CreatePurchDocument - NamedType Text50151</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1841557253 - Method 4209902353 - NamedType 994941778" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order %1 is created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMG_MiscManagement - Method CreatePurchDocument - NamedType Text50152</note>
+        </trans-unit>
+        <trans-unit id="Page 2029499210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Requisition List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2029499210 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the involved purchase requisition record, according to the specified number series.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionList - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2029499210 - Control 3371587340 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date when purchase requisition is created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionList - Control Requisition Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2029499210 - Control 1577567912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 1, which is one of two global dimension codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionList - Control Shortcut Dimension 1 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2029499210 - Control 1003760969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 2, which is one of two global dimension codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionList - Control Shortcut Dimension 2 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2029499210 - Control 781257514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 3, which is codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionList - Control Shortcut Dimension 3 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the involved purchase requisition record, according to the specified number series.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Control 3371587340 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date when purchase requisition is created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Control Requisition Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Control 1577567912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 1, which is one of two global dimension codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Control Shortcut Dimension 1 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Control 1003760969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 2, which is one of two global dimension codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Control Shortcut Dimension 2 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Control 781257514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 3, which is codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Control Shortcut Dimension 3 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Control 2850985159 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the coordinator.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Control Coordinator Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Action 2173385693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit dimensions, such as area, project, or department, that you can assign to purchase documents to distribute costs and analyze transaction history.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Action Dimensions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Action 4198874567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Purch. Quote</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Action CreatePurchaseQuote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Action 4198874567 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create purchase quote based on the given information in purchase requisition.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Action CreatePurchaseQuote - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Action 1315191579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Purch. Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Action CreatePurchaseOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3702036812 - Action 1315191579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create purchase order based on the given information in purchase requisition.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionCard - Action CreatePurchaseOrder - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Requisition Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Control 3100943090 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows weather the line is linked with any purchase order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Control OrderCreated - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the line type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of a general ledger account or item,depending on what you selected in the Type field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the entry.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Control 2385270358 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how each unit of the item is measured, such as in pieces.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Control Unit of Measure Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of units of the item specified on the line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Control 1577567912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 1, which is one of two global dimension codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Control Shortcut Dimension 1 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Control 1003760969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 2, which is one of two global dimension codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Control Shortcut Dimension 2 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Control 781257514 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for Shortcut Dimension 3, which is codes that you set up in the General Ledger Setup window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Control Shortcut Dimension 3 Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1534829698 - Action 2173385693 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit dimensions, such as area, project, or department, that you can assign to purchase documents to distribute costs and analyze transaction history.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMG_PurchRequisitionSubform - Action Dimensions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3583523660 - Control 2075640885 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3603089623">
+          <source>Specifies the vendor's or customer's trade type to link transactions made for this business partner with the appropriate general ledger account according to the general posting setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50153 - Control AMG_GenBusPostingGroup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2945827043 - Control 2075640885 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3000818272">
+          <source>Specifies the vendor's or customer's trade type to link transactions made for this business partner with the appropriate general ledger account according to the general posting setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50152 - Control AMG_GenBusPostingGroup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 563949598 - Control 4173878237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Misc Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50151 - Control Misc Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 563949598 - Control 500340384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Purch Requisition No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50151 - Control AMG_PurchReqNos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 563949598 - Control 500340384 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Specify the number series that will be used to assign numbers to purchase requisition.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50151 - Control AMG_PurchReqNos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1670433809 - Control 795122721 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2556642749">
+          <source>Specifies the posting is allowed while it is exceeding the budget.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50154 - Control AMG_NotAllowExceedBudget - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1032737192 - Control 242690958 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3321822267">
+          <source>Specifies the purchase requisition number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50157 - Control AMG_InitSourceNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Control 2679102400 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Specifies the order is short closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Control AMG_ShortClosed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Control 2335997329 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Specifies the order is cancelled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Control AMG_Cancelled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Control 242690958 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Specifies the purchase requisition number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Control AMG_InitSourceNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1642854864 - Method 1377591017 - NamedType 14768227" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Your order has already short closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Short Close - Method OnAction - NamedType Text50001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1642854864 - Method 1377591017 - NamedType 1927858078" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Do you want short close order?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Short Close - Method OnAction - NamedType Text50002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1642854864 - Method 1377591017 - NamedType 1290161461" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Your order is successfully short close.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Short Close - Method OnAction - NamedType Text50003</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1642854864 - Method 1377591017 - NamedType 2396645672" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Please select line(s).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Short Close - Method OnAction - NamedType Text50004</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1642854864 - Method 1377591017 - NamedType 1758949055" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>There is nothing to short closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Short Close - Method OnAction - NamedType Text50005</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1642854864 - Method 1377591017 - NamedType 3672038906" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Your order has already cancel closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Short Close - Method OnAction - NamedType Text50006</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1028678835 - Method 1377591017 - NamedType 14768227" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Your order has already cancel closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Cancel Order1 - Method OnAction - NamedType Text50001</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1028678835 - Method 1377591017 - NamedType 1927858078" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Do you want cancel order?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Cancel Order1 - Method OnAction - NamedType Text50002</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1028678835 - Method 1377591017 - NamedType 1290161461" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Your order is successfully cancel close.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Cancel Order1 - Method OnAction - NamedType Text50003</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1028678835 - Method 1377591017 - NamedType 1758949055" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>There is nothing to cancel closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Cancel Order1 - Method OnAction - NamedType Text50005</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2308130426 - Action 1028678835 - Method 1377591017 - NamedType 3672038906" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Your order has already short closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50155 - Action Cancel Order1 - Method OnAction - NamedType Text50006</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 395040575 - Control 2679102400 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
+          <source>Specifies the order is short closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50156 - Control AMG_ShortClosed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 395040575 - Control 2335997329 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
+          <source>Specifies the order is cancelled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50156 - Control AMG_Cancelled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 395040575 - Control 4082603472 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
+          <source>Specifies the order is applied for short close.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension50156 - Control AMG_AppliedForClose - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 673040238 - Field 1735431586 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2014770230">
+          <source>Schedule Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50154 - Field Schedule Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 673040238 - Field 4195454114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2014770230">
+          <source>Usage Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50154 - Field Usage Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 504131215 - Field 2075640885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3690479385">
+          <source>Gen. Bus. Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50153 - Field AMG_GenBusPostingGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1141827832 - Field 2075640885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1949342174">
+          <source>Gen. Business Posting Group</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50152 - Field AMG_GenBusPostingGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1779524449 - Field 500340384 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Purchase Requisition No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50151 - Field AMG_PurchReqNos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 35343621 - Field 795122721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2556642749">
+          <source>Not Allow Exceed Budget Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50155 - Field AMG_NotAllowExceedBudget - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3692614300 - Field 242690958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Purchase Requisition No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50156 - Field AMG_InitSourceNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3692614300 - Field 2679102400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Short Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50156 - Field AMG_ShortClosed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3692614300 - Field 2335997329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50156 - Field AMG_Cancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3692614300 - Method 1314646680 - NamedType 4083851508" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Invoice must be post before short close.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50156 - Method CheckPartiallyQty - NamedType Text5000</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3692614300 - Method 263527566 - NamedType 4083851508" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Invoice must be post before cancel close.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50156 - Method CheckCancelPartiallyQty - NamedType Text5000</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3692614300 - Method 1479096300 - NamedType 2551532488" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>The approval process must be canceled or completed to reopen this document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50156 - Method PerformManualReopen - NamedType Text00001</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3054917683 - Field 242690958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Init Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50157 - Field AMG_InitSourceNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3054917683 - Field 1512293936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Init Source Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50157 - Field AMG_InitSourceLineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3054917683 - Field 2679102400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Short Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50157 - Field AMG_ShortClosed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3054917683 - Field 2335997329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Cancelled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50157 - Field AMG_Cancelled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3054917683 - Field 1284424395 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Original Qty.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50157 - Field AMG_OriginalQty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3054917683 - Field 4082603472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>Applied For Close</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension50157 - Field AMG_AppliedForClose - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<PermissionSets>
+    <PermissionSet RoleID="roleId" RoleName="roleName">
+        <Permission>
+            <ObjectType>0</ObjectType>
+            <ObjectID>50151</ObjectID>
+            <ReadPermission>1</ReadPermission>
+            <InsertPermission>1</InsertPermission>
+            <ModifyPermission>1</ModifyPermission>
+            <DeletePermission>1</DeletePermission>
+            <ExecutePermission>1</ExecutePermission>
+            <SecurityFilter />
+        </Permission>
+        <Permission>
+            <ObjectType>0</ObjectType>
+            <ObjectID>50152</ObjectID>
+            <ReadPermission>1</ReadPermission>
+            <InsertPermission>1</InsertPermission>
+            <ModifyPermission>1</ModifyPermission>
+            <DeletePermission>1</DeletePermission>
+            <ExecutePermission>1</ExecutePermission>
+            <SecurityFilter />
+        </Permission>                      
+    </PermissionSet>
+</PermissionSets>
